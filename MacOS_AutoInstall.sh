@@ -42,3 +42,5 @@ fi
 echo ""
 echo ""
 echo "Script has finished. You may now close the terminal..."
+
+open "https://pythonsupport.dtu.dk/install/macos/automated-success.html"

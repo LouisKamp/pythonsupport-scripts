@@ -38,3 +38,5 @@ if ( -not $_python_ret ) {
 Write-Output ""
 Write-Output ""
 Write-Output "Script has finished. You may now close the terminal..."
+
+Start "https://pythonsupport.dtu.dk/install/windows/automated-success.html"
